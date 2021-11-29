@@ -7,7 +7,7 @@
  */
 
 
-namespace rottriges\ganttcolumn;
+namespace pascini\ganttcolumn;
 
 use Yii;
 use Closure;
@@ -309,7 +309,7 @@ class GanttColumn extends DataColumn
     {
 
       $progressBar =  Yii::createObject([
-            'class' => 'rottriges\ganttcolumn\GanttProgressBar',
+            'class' => 'pascini\ganttcolumn\GanttProgressBar',
             'startGap' => $this->startGap,
             'length' => $this->progressLength,
             'progressBarType' => $this->_progressType,

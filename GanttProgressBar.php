@@ -7,9 +7,9 @@
  */
 
 
-namespace rottriges\ganttcolumn;
+namespace pascini\ganttcolumn;
 
-use yii\bootstrap\Progress;
+use yii\bootstrap4\Progress;
 use yii\helpers\Html;
 
 class GanttProgressBar extends \yii\base\Component

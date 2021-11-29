@@ -7,7 +7,7 @@
  */
 
 
-namespace rottriges\ganttcolumn;
+namespace pascini\ganttcolumn;
 
 use Yii;
 use yii\helpers\ArrayHelper;

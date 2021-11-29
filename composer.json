@@ -1,5 +1,5 @@
 {
-    "name": "rottriges/yii2-gantt-column",
+    "name": "pascini/yii2-gantt-column",
     "description": "Ganttchart-Column for yii2 grid for project-management ",
     "keywords": [
         "yii2",
@@ -16,10 +16,10 @@
             "homepage": "https://github.com/rottriges/"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "rottriges\\ganttcolumn\\": ""
+            "pascini\\ganttcolumn\\": ""
         }
     },
     "extra": {
